@@ -76,7 +76,7 @@ Cyfrin Updraft Courses:
 - `javascript/typescript`
   - [viem](https://viem.sh/)
   - [wagmi](https://wagmi.sh/)
-  - [synpress]*https://synpress.io/
+  - [synpress](https://synpress.io/)
 - [rindexer](https://github.com/joshstevens19/rindexer/issues)
 - [Circle/USDC](https://developers.circle.com/w3s/smart-contract-platform)
   - [Compliance Engine](https://developers.circle.com/w3s/compliance-engine)
