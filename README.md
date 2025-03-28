@@ -49,6 +49,10 @@ Cyfrin Updraft Courses:
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [What will you learn?](#what-will-you-learn)
+- [Prerequisites](#prerequisites)
+  - [Requirements](#requirements)
+  - [Nice to have](#nice-to-have)
 - [Tools](#tools)
   - [Tools we cover in this course](#tools-we-cover-in-this-course)
 - [Suppport](#suppport)
@@ -56,6 +60,7 @@ Cyfrin Updraft Courses:
   - [Best Practices](#best-practices)
 - [Sections](#sections)
   - [Section 1: HTML/JS - Buy Me A Coffee](#section-1-htmljs---buy-me-a-coffee)
+    - [Challenges](#challenges)
   - [Section 2: React/NextJS Static Site - Token Airdropper UI](#section-2-reactnextjs-static-site---token-airdropper-ui)
   - [Section 3: React/NextJS Dynamic Site - NFT Marketplace](#section-3-reactnextjs-dynamic-site---nft-marketplace)
 - [Congratulations](#congratulations)
@@ -68,6 +73,23 @@ Cyfrin Updraft Courses:
 - [Thank you](#thank-you)
 - [License](#license)
 
+# What will you learn?
+
+- How to vibe code your way to vicotry
+- Build an MVP of a full-stack web3 application good enough to win a hackathon
+
+# Prerequisites
+
+## Requirements 
+- Blockchain basics Cyfrin Updraft Course
+  - You've downloaded Metamask
+  - You understand what a blockchain is
+  - You understand what a smart contract is 
+
+## Nice to have
+- Some javsacript experience
+- Some solidity experience (Solidity 101)
+- Some AI prompting experience
 
 # Tools
 
@@ -129,6 +151,14 @@ Cyfrin Updraft Courses:
 💻 Code: [https://github.com/Cyfrin/html-ts-coffee-cu](https://github.com/Cyfrin/html-ts-coffee-cu)
 
 A minimal app where we show you the basics of building a website to interact with web3!
+
+- [install nodejs](https://nodejs.org/en/download)
+- [install pnpm](https://pnpm.io/installation)
+
+### Challenges
+
+1. Write down why you want to take this course
+2. Create a button that `console.log`'s the response of `getAddressToAmountFunded`
 
 ## Section 2: React/NextJS Static Site - Token Airdropper UI
 
