@@ -167,7 +167,7 @@ A minimal app where we show you the basics of building a website to interact wit
 </p>
 
 
-💻 Code: [https://github.com/Cyfrin/ts-tsender-cu](https://github.com/Cyfrin/ts-tsender-cu)
+💻 Code: [https://github.com/Cyfrin/ts-tsender-ui-cu](https://github.com/Cyfrin/ts-tsender-ui-cu)
 
 A completely static app you can deploy to IPFS or Fleek to interact with a smart contract! This is actually a live site as well!
 
