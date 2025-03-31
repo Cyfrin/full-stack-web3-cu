@@ -62,6 +62,7 @@ Cyfrin Updraft Courses:
   - [Section 1: HTML/JS - Buy Me A Coffee](#section-1-htmljs---buy-me-a-coffee)
     - [Challenges](#challenges)
   - [Section 2: React/NextJS Static Site - Token Airdropper UI](#section-2-reactnextjs-static-site---token-airdropper-ui)
+    - [Challenges](#challenges-1)
   - [Section 3: React/NextJS Dynamic Site - NFT Marketplace](#section-3-reactnextjs-dynamic-site---nft-marketplace)
 - [Congratulations](#congratulations)
 - [Where do I go now?](#where-do-i-go-now)
@@ -118,6 +119,8 @@ Cyfrin Updraft Courses:
 
 ## AI Frens
 
+- [AI Leaderboard](https://lmarena.ai/?leaderboard)
+
 *Top picks:*
 - [claude.ai](https://claude.ai/)
 - [cursor IDE](https://www.cursor.com/)
@@ -170,6 +173,15 @@ A minimal app where we show you the basics of building a website to interact wit
 💻 Code: [https://github.com/Cyfrin/ts-tsender-ui-cu](https://github.com/Cyfrin/ts-tsender-ui-cu)
 
 A completely static app you can deploy to IPFS or Fleek to interact with a smart contract! This is actually a live site as well!
+
+- [What is an ERC20 token? (Just watch the first few minutes)](https://www.youtube.com/watch?v=8rpir_ZSK1g)
+
+### Challenges
+
+1. Add quality of life features to the app:
+   1. Should have a little spinner while the app is *both* sending a transaction to the chain, and has metamask popped up
+   2. Should save to local storage the inputs (so when someone refreshes, they don't lose their inputs)
+   3. Should have a little box at the bottom for details about the token
 
 Site: [t-sender.com](https://t-sender.com/)
 
