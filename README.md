@@ -182,6 +182,8 @@ A completely static app you can deploy to IPFS or Fleek to interact with a smart
    1. Should have a little spinner while the app is *both* sending a transaction to the chain, and has metamask popped up
    2. Should save to local storage the inputs (so when someone refreshes, they don't lose their inputs)
    3. Should have a little box at the bottom for details about the token
+2. Deploy your site to fleek!
+   1. [Tweet it out!](https://twitter.com/intent/post?text=I%20just%20deployed%20a%20nextjs%20site%20using%20%40fleek%20that%20can%20connect%20to%20%40zksyncdevs!%0A%0A%20Thanks%20%40PatrickAlphaC%20and%20%40cyfrinupdraft!%20)
 
 Site: [t-sender.com](https://t-sender.com/)
 
