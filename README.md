@@ -64,6 +64,7 @@ Cyfrin Updraft Courses:
   - [Section 2: React/NextJS Static Site - Token Airdropper UI](#section-2-reactnextjs-static-site---token-airdropper-ui)
     - [Challenges](#challenges-1)
   - [Section 3: React/NextJS Dynamic Site - NFT Marketplace](#section-3-reactnextjs-dynamic-site---nft-marketplace)
+    - [Challenges](#challenges-2)
 - [Congratulations](#congratulations)
 - [Where do I go now?](#where-do-i-go-now)
   - [Learning More](#learning-more)
@@ -200,10 +201,17 @@ Site: [t-sender.com](https://t-sender.com/)
 
 A dynamic site where we teach you how to interact with services with your app, like:
 
+- [Circle Sign Up](https://console.circle.com/signin)
 - Circle compliance engine
 - Indexers
 
 And more!
+
+### Challenges
+
+1. Deploy your DYNAMIC site to fleek
+2. Add your own feature to the app!
+
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
