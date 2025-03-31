@@ -175,6 +175,7 @@ A minimal app where we show you the basics of building a website to interact wit
 A completely static app you can deploy to IPFS or Fleek to interact with a smart contract! This is actually a live site as well!
 
 - [What is an ERC20 token? (Just watch the first few minutes)](https://www.youtube.com/watch?v=8rpir_ZSK1g)
+- Fleek Deploy & Fleek CLI
 
 ### Challenges
 
@@ -199,7 +200,6 @@ Site: [t-sender.com](https://t-sender.com/)
 
 A dynamic site where we teach you how to interact with services with your app, like:
 
-- Fleek functions
 - Circle compliance engine
 - Indexers
 
