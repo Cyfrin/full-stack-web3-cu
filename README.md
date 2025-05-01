@@ -77,14 +77,14 @@ Cyfrin Updraft Courses:
 
 # What will you learn?
 
-- How to vibe code your way to vicotry
+- How to vibe code your way to victory
 - Build an MVP of a full-stack web3 application good enough to win a hackathon
 
 # Prerequisites
 
 ## Requirements 
 - Blockchain basics Cyfrin Updraft Course
-  - You've downloaded Metamask
+  - You've downloaded MetaMask
   - You understand what a blockchain is
   - You understand what a smart contract is 
 
@@ -181,7 +181,7 @@ A completely static app you can deploy to IPFS or Fleek to interact with a smart
 ### Challenges
 
 1. Add quality of life features to the app:
-   1. Should have a little spinner while the app is *both* sending a transaction to the chain, and has metamask popped up
+   1. Should have a little spinner while the app is *both* sending a transaction to the chain, and has MetaMask popped up
    2. Should save to local storage the inputs (so when someone refreshes, they don't lose their inputs)
    3. Should have a little box at the bottom for details about the token
 2. Deploy your site to fleek!
