@@ -77,7 +77,7 @@ Cyfrin Updraft Courses:
 
 # What will you learn?
 
-- How to vibe code your way to vicotry
+- How to vibe code your way to victory
 - Build an MVP of a full-stack web3 application good enough to win a hackathon
 
 # Prerequisites
