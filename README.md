@@ -55,7 +55,7 @@ Cyfrin Updraft Courses:
   - [Nice to have](#nice-to-have)
 - [Tools](#tools)
   - [Tools we cover in this course](#tools-we-cover-in-this-course)
-- [Suppport](#suppport)
+- [Support](#support)
   - [AI Frens](#ai-frens)
   - [Best Practices](#best-practices)
 - [Sections](#sections)
@@ -89,7 +89,7 @@ Cyfrin Updraft Courses:
   - You understand what a smart contract is 
 
 ## Nice to have
-- Some javsacript experience
+- Some javascript experience
 - Some solidity experience (Solidity 101)
 - Some AI prompting experience
 
@@ -109,7 +109,7 @@ Cyfrin Updraft Courses:
   - Site hosting
   - CLI
 
-# Suppport
+# Support
 
 - [Github Discussions](https://github.com/Cyfrin/full-stack-web3-cu/discussions)
   - Ask questions and chat about the course here!
